@@ -52,14 +52,12 @@ Crea una aplicación de React que muestre una lista de productos con la posibili
 
 ## Ejemplo de Datos de Productos:
 
-js```
+```
 const products = [
 { id: 1, name: 'Product A', price: 30, category: 'Category 1' },
 { id: 2, name: 'Product B', price: 20, category: 'Category 2' },
 { id: 3, name: 'Product C', price: 50, category: 'Category 1' },
 { id: 4, name: 'Product D', price: 40, category: 'Category 3' },
 ];
-
-```
 
 ```
